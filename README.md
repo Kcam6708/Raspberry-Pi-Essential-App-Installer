@@ -1,5 +1,7 @@
 # Raspberry-Pi-App-Auto-Installer
 This line of code will install the apps you need to start with Raspberry Pi OS.
+I will keep the list updated as much as possible.
+If you have any ideas let me know.
 
 
 
