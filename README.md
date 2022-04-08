@@ -11,5 +11,7 @@ sudo apt install gparted -y && sudo apt install rpi-imager -y && sudo apt instal
 
 
 Many thanks to the developers of these apps.
+
+
 "Computer Science is a science of abstraction -creating the right model for a problem and devising the appropiate mechanizable techniques to solve it."
 - Alfred Aho
